@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Dēlōsis: or, The fundamental articles of Christian faith evidenced The seeming absurdities of the Creed of St. Athanasius elucidated. The divine revelation of the Holy Scriptures, by standing miracles, prov'd. The necessity and sufficiency of the satisfaction of Christ, for sins asserted, by demonstration.</title>
+         </titleStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37526</idno><idno type="EEBO-CITATION">99828071</idno>
+  <idno type="VID">32498</idno>
+  <idno type="EEBO-PROQUEST">2240883544</idno>
+  
+            <idno type="STC">Wing D970A</idno>
+            <idno type="STC">ESTC R216339</idno>
+            <idno type="PROQUEST">99828071</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99828071e"/>
+            <note>(EEBO-TCP ; phase 2, no. A37526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32498)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1945:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Dēlōsis: or, The fundamental articles of Christian faith evidenced The seeming absurdities of the Creed of St. Athanasius elucidated. The divine revelation of the Holy Scriptures, by standing miracles, prov'd. The necessity and sufficiency of the satisfaction of Christ, for sins asserted, by demonstration.</title>
+               </titleStmt>
+               <extent>[2], 21, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Tho. Milbourn, for R. Clavel at the Peacock in St. Paul's Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First word of title is in Greek characters.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Athanasius, --  Saint Patriarch of Alexandria, d. 373 --  Early works to 1800.</term>
+               <term type="topical_term">Athanasianism --  Early works to 1800.</term>
+               <term type="topical_term">Christianity --  Creeds --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2015-01 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32498:1"/>
+            <p>ΔΉΛΩΣΙΣ: OR, <hi>The Fundamental ARTICLES</hi> OF <hi>Christian Faith</hi> EVIDENCED.</p>
+            <p>THE Seeming Absurdities of the <hi>Creed</hi> of St. <hi>Athanasius</hi> Elucidated.</p>
+            <p>THE Divine Revelation of the Holy Scriptures, by standing Miracles, Prov'd.</p>
+            <p>THE Necessity and Sufficiency of the Satisfaction of Christ, for Sins Asserted, BY DEMONSTRATION.</p>
+            <q>
+               <bibl>
+                  <hi>Heb. Xi. 1.</hi>
+               </bibl>
+               <p>—Evidence of things not seen.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Tho. Milbourn,</hi> for <hi>R. Clavel</hi> at the <hi>Peacock</hi> in St. <hi>Paul</hi>'s Church-yard, 1697.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:32498:2"/>
+            <pb n="1" facs="tcp:32498:2"/>
+            <head>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> OR, <hi>Because of the Word of Truth.</hi>
+            </head>
+            <p>FOurteen Centuries upon the matter past, since the time of the Council of <hi>Nice,</hi> and will nothing serve turn now in this latter age, but a <hi>Levitical,</hi> or <hi>Old-Testament Rationale?</hi> Must we expect a<g ref="char:EOLhyphen"/>nother <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> yet to come? Pray still, send out thy Light, and thy Truth, as under the Law? Our Liturgy, and our Creeds be in danger else to be cast out of the best reformed Church in the World again. Hear O Hea<g ref="char:EOLhyphen"/>vens, and wonder at this. Not like they to stand their Ground, unless they can secure themselves, as by Respon<g ref="char:EOLhyphen"/>ses from the <hi>Dela.</hi> Yes surely, to this pass are things come, that evidence is required for every thing; and nothing is like to be received for Truth by the men of Sense, (as the Admirers of the Philosopher of <hi>Malmsbury</hi> call them<g ref="char:EOLhyphen"/>selves,) but what comes prov'd to them Apodictically, or Demonstration-wise; even the <hi>Summae Veritates,</hi> the Highest Mysteries of our Faith not excepted. What is to be done in this case now, the <hi>Ʋrim</hi> and <hi>Thummim,</hi> since <hi>Solomon</hi>'s Temple was burnt, being lost? Must we let things go as they will? God forbid, this may not, must not be endured. Wherefore, no one, 'tis to be hoped, will look upon this Paper as Blame-worthy, (designing, as it doth, to shew the world that the Cause of Religion
+<pb n="2" facs="tcp:32498:3"/>is not desperate, but that it dares to appear before the Tribunal, or at the Bar of Reason its self, withal presu<g ref="char:EOLhyphen"/>ming that 'tis not an idle, but pious and necessary Un<g ref="char:EOLhyphen"/>dertaking to free it from the scandal of withdrawing its self, and being liable to the Statute,) if it take upon it to make an Effort at proving the above-said Verities by Demonstration, as is lookt for; in regard it doubts not (since God's Honour, and the Churches Service is its on<g ref="char:EOLhyphen"/>ly aim,) but produce it may some good Effects in this Apostatizing age of ours, being very confident, that the men of Wit, as in their writings they bear themselves to be, (if their Intellects, like <hi>Monsieur de la Croce</hi>'s numb'd Angels, are not wholly materialized) will find it to per<g ref="char:EOLhyphen"/>form what in the Title Page it pretends to, and what by them therefore may justly be expected from it. Accor<g ref="char:EOLhyphen"/>dingly, <hi>In Nomine Patris, &amp; Filii, &amp; Spiritus Sancti,</hi> it sheweth,</p>
+            <div n="1" type="part">
+               <head>I. <hi>That a God there is.</hi>
+               </head>
+               <p>Many Intelligent Beings, or Persons there are in the World we all know, which are Subjects of those No<g ref="char:EOLhyphen"/>ble Acts of Cogitation, and Ratiocination.</p>
+               <p>But, impossible it is that there should be such in the world, if there be not an Eternal one of Power to produce them, who is called by himself <hi>I Am,</hi> and in our tongue, being the chief Good, is called God. <hi>Ergo,</hi>
+               </p>
+               <p>
+                  <hi>Minor</hi> prov'd by this <hi>Enthymem.</hi> Parcels of matter can<g ref="char:EOLhyphen"/>not modifie themselves with so much Wisdom possibly, or rise to so high a Pitch, as to be Subjects of such Noble Acts as Cogitation and Ratiocination are.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="2" type="part">
+               <pb n="3" facs="tcp:32498:3"/>
+               <head>II. <hi>That in the Godhead there are distinct Persons.</hi>
+               </head>
+               <p>True, and Lively Images of God, of diverse sorts, or kinds there cannot be in the world, if in the Godhead there be one person only.</p>
+               <p>But know we doe, that there are diverse Sorts or Kinds of True, and Lively Images of God in the World. <hi>Ergo,</hi>
+               </p>
+               <p>
+                  <hi>Major</hi> prov'd. Of one only Person, but one only True, and Lively Image can be conceiv'd.</p>
+               <p>
+                  <hi>Minor</hi> thus. Angels and Mens Souls, forasmuch as they are Intelligent Beings, must be own'd to be diverse Species of True, and Lively Images of God.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="3" type="part">
+               <head>III. <hi>That the Persons in the Godhead are three.</hi>
+               </head>
+               <p>We find in the Scriptures, that <hi>Ante Saecula,</hi> there was one <hi>a Nullo,</hi> Unbegotten He; <hi>sc. Fons, &amp; Origo Trinita<g ref="char:EOLhyphen"/>tis.</hi> Another <hi>ab Alio,</hi> Begotten He; <hi>sc. A Patre Solo.</hi> A Third <hi>ab Aliis,</hi> Proceeding He; <hi>sc. à Patre Filio{que}.</hi>
+               </p>
+               <p>But, One <hi>à Nullo,</hi> Unbegotten; Another <hi>ab Alio,</hi> Be<g ref="char:EOLhyphen"/>gotten; a Third <hi>ab Aliis</hi> Proceeding, are, and must needs be three Persons. <hi>Ergo,</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="4" type="part">
+               <head>IV. <hi>That the Begotten, and Proceeding Persons have not pe<g ref="char:EOLhyphen"/>culiar Godheads of their own.</hi>
+               </head>
+               <p>Supposing that these two Persons have each of them a peculiar Godhead of their own; it must follow, that there is more than one God.</p>
+               <pb n="4" facs="tcp:32498:4"/>
+               <p> But, there is not, nor can there possibly be more than one God. <hi>Ergo,</hi>
+               </p>
+               <p>
+                  <hi>Minor</hi> prov'd. Three distinct Godheads, are three distinct Infinites, and three distinct Infinites cannot be affir<g ref="char:EOLhyphen"/>med to be, without Repugnance.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="5" type="part">
+               <head>V. <hi>That the Son, and Holy Ghost are God by being</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</head>
+               <p>They who are God as distinct Persons, and are not distinct Gods (for so the Church holds,) must be God by being <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or for being in Unity with the Substance of the Unbegotten, <hi>viz.</hi> the first Person.</p>
+               <p>But, so 'tis here; the Son and Holy Ghost are God, as distinct Persons, but by no means distinct Gods, <hi>Ergo,</hi>
+               </p>
+               <p>Note, that the Godhead is one, and the same in All, and that each person hath the Godhead Shechinah-wise, that is to say, by In-dwelling; for which <hi>Aquinas</hi> speaks of it, as the <hi>Caelum SS<seg rend="sup">tae</seg> Trinitatis.</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="6" type="part">
+               <head>VI. <hi>That the Father, Son and Holy Ghost, tho' Three Per<g ref="char:EOLhyphen"/>sons, are only one God.</hi>
+               </head>
+               <p>Three Persons being in Unity, or Intimately, and In<g ref="char:EOLhyphen"/>dissolubly in one same Godhead, must needs be <hi>Ʋnum totum Spirituale Individuum, per consequens,</hi> one only God.</p>
+               <p>But, so tis here. The Father, Son and Holy Ghost are intimately and indissolubly in Unity, and have but one same Godhead. <hi>Ergo,</hi>
+               </p>
+               <p>Note, that if we confound the Persons, supposing 'em fewer than three, we fall upon the Rock of Sabellianism:
+<pb n="5" facs="tcp:32498:4"/>If we divide the Substance of the Godhead, we dash upon <hi>Tritheism.</hi> It is, as if three Souls, or Understandings dwelt in one <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or one earthly House of this Body of ours; for Body is as much as a Body; the <hi>Schechinah,</hi> Abode, or Dwelling of the Soul.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="7" type="part">
+               <head>VII. <hi>That the Son and Holy Ghost are Co-aequal, and Co-aeternal with the Father.</hi>
+               </head>
+               <p>They who are <hi>Co,</hi> or with the Father for being di<g ref="char:EOLhyphen"/>stinct Persons, and withal have the Father's Glory, and Eternal Majesty, are truly Co-aequal, and Co-aeternal with Him.</p>
+               <p>But, the Son and Holy Ghost are <hi>Co,</hi> or with the Fa<g ref="char:EOLhyphen"/>ther, as distinct Persons, and have withal the Father's Glory, and Eternal Majesty. <hi>Ergo,</hi>
+               </p>
+               <p>Note, that the Son and Holy Ghost, are <hi>Co, qua</hi> Per<g ref="char:EOLhyphen"/>sons, subordinately; so, are Co-aequal, Co-aeternal, Co-incomprehensible, Co-infinite, Co-almighty, Co-alwise, Co-most-high. Their Equality, and Eternality result from the Unity; a Thing which the <hi>Arian</hi> always overlooks, still poring on the distinction only.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="8" type="part">
+               <head>VIII. <hi>That the three Persons are not Before or After, Greater or Less, One than the Other.</hi>
+               </head>
+               <p>To say, that they are Before, or After, Greater or Less, One than the Other, is to deny the Son and Holy Ghost to be God.</p>
+               <p>But, seeing the Son and Holy Ghost have the whole Godhead of the Father, being not to be divided, or en<g ref="char:EOLhyphen"/>joyed
+<pb n="6" facs="tcp:32498:5"/>by parts, they are, <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, i. e. truly, and properly God. <hi>Ergo.</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="9" type="part">
+               <head>IX. <hi>That the Son of God, by assuming Flesh is not two, but One Christ.</hi>
+               </head>
+               <p>He who did not assume the Person of a Man al<g ref="char:EOLhyphen"/>ready form'd, but assumed the Seed only of the Blessed Virgin; which Seed, after the Conception, being in U<g ref="char:EOLhyphen"/>nity with his <hi>Dei-genit</hi> Person, became first an <hi>Embryo,</hi> then a perfect Child, and at last was born, is not Two, but One Christ</p>
+               <p>But, so 'tis here; the Son of God did as is aforesaid. <hi>Ergo,</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="10" type="part">
+               <head>X. <hi>That the Son of God,</hi> (Speciatim) <hi>is not a Creature, but truly God.</hi>
+               </head>
+               <p>All Created Persons whatsoever they be, or however called, are either <hi>à Non-ente,</hi> or <hi>ab Ente Creato.</hi>
+               </p>
+               <p>But he who is <hi>à Summo Ente, In Summo Ente</hi> before the Worlds were made, cannot be <hi>à Non-Ente,</hi> or <hi>ab En<g ref="char:EOLhyphen"/>te Creato. Ergo,</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="11" type="part">
+               <head>XI. <hi>That</hi> Erat cum non erat, <hi>may not be said of the Son of God.</hi>
+               </head>
+               <p>Of Him, who is truly God, <hi>Erat cum non erat</hi> can<g ref="char:EOLhyphen"/>not be said.</p>
+               <p>But the only Son being begotten by an Immanent Act, or in Unity with the Everlasting Substance of the Father, is really and truly God. <hi>Ergo.</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="12" type="part">
+               <pb n="7" facs="tcp:32498:5"/>
+               <head>XII <hi>That the Sanction of the Creed of</hi> St. Athanasius <hi>is Holy and Good.</hi>
+               </head>
+               <p>If St. <hi>Athanasius</hi> says the same, or to the same Effect as Christ our Lord doth, who tells us, that he who be<g ref="char:EOLhyphen"/>lieveth not is damned; and he says, This is Life Eternal to know the only true God, that is (God as he is, Trinity in Unity) and, Jesus Christ whom he hath sent (that is, his Son Incarnate) implying that no one, but by such Be<g ref="char:EOLhyphen"/>lief can have this Life Eternal, then is the Sanction of his Creed Holy and Good.</p>
+               <p>But St. <hi>Athanasius</hi> says the same, or to the same effect as Christ our Lord doth, <hi>viz.</hi> That he who keeps not the Faith whole, and undefiled; who doth not believe the Trinity in Unity, and also the Incarnation of the on<g ref="char:EOLhyphen"/>ly Son of God faithfully, shall perish without doubt e<g ref="char:EOLhyphen"/>verlastingly, and cannot be saved. <hi>Ergo.</hi>
+               </p>
+               <p>Note, that whereas the Son of God is said to be sent, it is spoken in respect of his Person only, and so he might be sent by God the Father, who in the Holy Scriptures is usually called his Father, and his God. This <hi>Diver<g ref="char:EOLhyphen"/>sus Respectus</hi> is carefully to be heeded in reading the Scriptures; it is a pair of Spectacles that will make all plain.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="13" type="part">
+               <head>XIII. <hi>That</hi> St. Athanasius <hi>is not to be blamed, for the Ob<g ref="char:EOLhyphen"/>scure Terms in his Creed, used.</hi>
+               </head>
+               <p>He who made not his Creed to be sung in the Church, but to be kept for the benefit of the Learned in the Churches <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <hi>Archives,</hi> is not to be blamed for the obscure Terms used therein.</p>
+               <pb n="8" facs="tcp:32498:6"/>
+               <p> But, so did St. <hi>Athanasius</hi> do, nor was his Creed sung in the Church till the thirteenth Century, upon the Revival of Arianism by <hi>Petrus Abelardus. Ergo.</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="14" type="part">
+               <head>XIV. <hi>The Holy Scriptures proved by standing Miracles to be by Divine Revelations.</hi>
+               </head>
+               <p>Matters of Fact being predicted to take effect, a thou<g ref="char:EOLhyphen"/>sand or several hundreds of years after such Predicti<g ref="char:EOLhyphen"/>on, if at the prefixed time fulfilled, are standing Mira<g ref="char:EOLhyphen"/>cles to be seen, examined, and judged of by all; and if found in the Holy Scriptures, do evidently prove them to be delivered to us by Divine Revelation.</p>
+               <p>But, such Predictions, at their prefixt time punctually fulfilled, are to be found in the Holy Scriptures, many. <hi>Ergo,</hi>
+               </p>
+               <p>
+                  <hi>Major</hi> made good in the Story of <hi>Cyrus,</hi> who lookt on it as a Miracle, that he should read his Name, so casually given him as it was, in the Books of the Pro<g ref="char:EOLhyphen"/>phets, where God calls him my Shepherd, my Servant, my Anointed <hi>Cyrus,</hi> to whom only it belongs to know fu<g ref="char:EOLhyphen"/>ture Contingencies.</p>
+               <p>
+                  <hi>Minor</hi> made good in sundry particulars. In <hi>Jacob</hi>'s Pro<g ref="char:EOLhyphen"/>phely of the Scepters departing from <hi>Judah.</hi> In <hi>Bala<g ref="char:EOLhyphen"/>am</hi>'s Star, and Ships of <hi>Chittim.</hi> In <hi>Daniel</hi>'s Prophesy of the Destraction of <hi>Jerusalem, &amp; sexcentum aliis.</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="15" type="part">
+               <head>XV. <hi>That the Old Testament is not so depraved by the</hi> Jews, <hi>that we need doubt of Matters of Fact recorded in it.</hi>
+               </head>
+               <pb n="9" facs="tcp:32498:6"/>
+               <p> If the Greek Copies of the Seventy, who translated the Bible upon the Request of <hi>Ptolemy Philadelphus,</hi> before the Coming of Christ, and the Original Hebrew, be Tallies agreeing exactly in reporting Matters of Fact therein pre<g ref="char:EOLhyphen"/>dicted, then it is not credible, that the Old Testament is, or has been so far depraved.</p>
+               <p>But, so it is: The Translation of the Seventy, and O<g ref="char:EOLhyphen"/>riginal Hebrew are Tallies, and do exactly agree as is a<g ref="char:EOLhyphen"/>foresaid. <hi>Ergo.</hi>
+               </p>
+               <p>Note, that by this we see the reason of our Saviours, and his Holy Apostles Appeals so often to the Old Testa<g ref="char:EOLhyphen"/>ment, then best known in the Translation; also of the many Quotations out of the Seventy, which we meet with in the New, for the sake of the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or <hi>Hellenists,</hi> being at that time more in number by much than the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="16" type="part">
+               <head>XVI. <hi>That there was a necessity of the Satisfaction of Christ for Sins, supposing him, in Love to Mankind, purposing Mans Redemption.</hi>
+               </head>
+               <p>It is impossible that Man, having sinned; should be admitted into the Favour of God, have Fellowship with him again, and at last be made Partaker of his Glory, the Debt of Sin being not paid, or its Guilt, and Filth not done away in Order to it.</p>
+               <p>But such things must be thought possible, if God could have pardoned sin without Satisfaction, or at least such Pardon been to no purpose, seeing without Holiness no man can see the Lord. <hi>Ergo.</hi>
+               </p>
+               <p>
+                  <hi>Minor</hi> proved. Evil cannot dwell with Thee. Thine Eyes are purer than to behold Iniquity. Rivers of Oyl,
+<pb n="10" facs="tcp:32498:7"/>the Cattle on a thousand Hills, all <hi>Lebanon</hi> made a burnt Offering was not to be accepted. God is not <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>.</p>
+               <p>Note, That 'tis a pernicious Doctrine, though own'd by Divines of great Repute, that God might have done away sin otherwise than by the Wise, and gracious Methods which he hath used, and that it smells rank of <hi>Socinianism,</hi> derogating from the Love of Christ ungrate<g ref="char:EOLhyphen"/>fully, shamefully.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="17" type="part">
+               <head>XVII. <hi>That the Son of God, (the Father as Soveraign Crea<g ref="char:EOLhyphen"/>tor, and Legislator, being the Person offended by the first Sin; Infidelity being properly the Offence against the Son; Graceless Impenitency against the Holy Ghost, the first Sin preceeding their Oeconomies,) did for the sin of Man give his Father Satisfaction.</hi>
+               </head>
+               <p>He who being made Flesh did die on the Cross, did Shed his Blood, and at his last Supper did, blessing the Cup, say to his Apostles, <hi>Drink ye All of This, for This is my Blood of the New Testament shed for you, and for ma<g ref="char:EOLhyphen"/>ny for the Remission of Sins,</hi> therein pointing at putting a Period to all <hi>Typical Sacrifices,</hi> the <hi>Paschal Lamb,</hi> &amp;c. which were in use, and to continue in use till the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, did certainly do this in Order to make satisfaction for sins to his Father according to the Compact, or Agree<g ref="char:EOLhyphen"/>ment betwixt them at the beginning.</p>
+               <p>But this did the Son of God do; He did assume Flesh, shed his Blood, and at his last Supper said to his Apostles, <hi>Driak ye All of This,</hi> pointing at putting a Period to <hi>Typical Sacrifices,</hi> &amp;c. <hi>Ergo,</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="18" type="part">
+               <pb n="11" facs="tcp:32498:7"/>
+               <head>XVIII. <hi>That the Son of God did not pay only an Equiva<g ref="char:EOLhyphen"/>lent, or a</hi> Tantundem, <hi>but the</hi> Idem <hi>in giving his Fa<g ref="char:EOLhyphen"/>ther Satisfaction.</hi>
+               </head>
+               <p>If the Son of God died the same Death that Man should have done for his Transgression in Violating the Law of Works; that is to say, had his Soul and Bo<g ref="char:EOLhyphen"/>dy separated, and so went down to <hi>Dumah,</hi> which is the first Death, to have remained in that Destruction-state Eternally, had he not been able to Conquer, being more than Man, and break the Bonds of Death in sun<g ref="char:EOLhyphen"/>der, then did he surely pay the <hi>Idem,</hi> and not an Equi<g ref="char:EOLhyphen"/>valent, or the <hi>Tantundem</hi> only.</p>
+               <p>But, this did the Son of God do for the sake of Man<g ref="char:EOLhyphen"/>kind, that the Father might not lose all the Glory and Praise of his lovely Creatures made in his own I<g ref="char:EOLhyphen"/>mage, and that men, if they should accept of the easy Conditions of Faith and Repentance might be saved. <hi>Ergo.</hi>
+               </p>
+               <p>Note, that from the Eternity of the first Death, man is saved without Conditions on his part; all men being to rise again, not so from the second Death; the Con<g ref="char:EOLhyphen"/>ditions of the New Covenant being to be performed, or Man to die eternally the second Death, notwithstand<g ref="char:EOLhyphen"/>ing the Death of Christ.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="19" type="part">
+               <head>XIX. <hi>That the Satisfaction of the Son of God for sins, is a full, compleat, and sufficient Satisfaction.</hi>
+               </head>
+               <p>He who fully and compleatly payed what is the Con<g ref="char:EOLhyphen"/>tract betwixt his Father and Him was agreed on the
+<pb n="12" facs="tcp:32498:8"/>Grant, and Rati-habition of the Covenant of Life, at the fastning of the Foundation of the World, (the Rational part of it being destroyed by Sin,) and did perform what was then offered by him in Love, and what the Father did then accept in Mercy, and that in all Respects, did surely pay a Full, Compleat, and Sufficient Satisfaction.</p>
+               <p>But, He the only Son of God being made Man, and doing what he has done for Us, hath in all Respects performed what in the Contract was agreed upon, be<g ref="char:EOLhyphen"/>twixt the Father and Him, and what his Father in Mer<g ref="char:EOLhyphen"/>cy, for the Love he bore to him his Son accepted. <hi>Ergo.</hi>
+               </p>
+               <p>Note, that the Father's Mercy went to the granting of Remission of sins to Sinners, that they might be justi<g ref="char:EOLhyphen"/>syed; and also to the Grant of Eternal Life to Sinners, if at their Lives ends found Holy, as well as the Me<g ref="char:EOLhyphen"/>rits of his Son's Death: This to be seen in that excellent Prayer, <hi>O God, whose Nature and Property is always to have Mercy, and to forgive,</hi> &amp;c.</p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="20" type="part">
+               <head>XX. <hi>That Christ's Rising from the Dead on the third Day is no just Objection against the sufficiency of his Satis<g ref="char:EOLhyphen"/>faction.</hi>
+               </head>
+               <p>It is but reasonable, that he who died effectually for such only, as being call'd, should embrace his Love, and cease from Sin; (for the Merits of his Death extend not to final Unbelievers, and final Impenitents,) should cease also to be under the state of the Dead, (being able to overcome Death,) at what time he pleased.</p>
+               <p>But, 'twas for such only as, being called, obey the Call, and cease from Sin, that this mighty One, able
+<pb n="13" facs="tcp:32498:8"/>to save, did submit to death, and the finally unbelieving, and finally Impenitent have no benefit by it, being to rise again only to die the second Death. <hi>Ergo.</hi>
+               </p>
+               <closer>Hallelujah.</closer>
+            </div>
+            <div n="21" type="part">
+               <head>XXI. <hi>That Faith, and Holiness conjunctly, (Holiness with<g ref="char:EOLhyphen"/>out Faith being morally impossible, and Faith without Holiness altogether unavailable) are requisite, and neces<g ref="char:EOLhyphen"/>sary to Interest Men in the Benefits of the Death of Christ, as compleat and sufficient as the Satisfaction made by Him is.</hi>
+               </head>
+               <p>If Faith and Holiness be, both of them, Conditions of the Covenant of Life, as contracted betwixt the Fa<g ref="char:EOLhyphen"/>ther, and the Son at the founding again of the Rational World, cast down by sin, (which is Predestination in Jesus Christ, at least in the Rati-habition, said to be before the Foundation of the World, because it really was before this Second, firm, and sure Foundation of it,) on a <hi>Corner-stone,</hi> which would not Rive away, as the first <hi>Caput Species Humanae,</hi> the first <hi>Adam</hi> did: And, if Faith be for this necessary, because what is before spoken off, comes to our Knowledge by Revelation on<g ref="char:EOLhyphen"/>ly, and because of the Aptitude, that the Belief of Things revealed, have to beget Holiness in its Subjects, and to put them in Hope: Likewise Holiness (begun on Earth, to be fully perfected at the Resurrection of the Just, when all God's Saints shall be rendred as <hi>Adams,</hi> and <hi>Eves</hi> Innocent, able to live up to the Requisites of the Religion of Nature, as the first <hi>Adam</hi> should have done, which is our consummate Regeneration, begun here, perfected then) be indispensably necessary to make us capable of seeing God, which is our utmost Bliss, to be
+<pb n="14" facs="tcp:32498:9"/>led into his Presence, if ever, without Spot, or wrinkle, it being impossible in the Nature of the Thing its self, that sin, or Sinner, <hi>(qua sie)</hi> should dwell with him in the Holy Heavens: Then Faith and Holiness are con<g ref="char:EOLhyphen"/>junctly necessary to interest Men in the Benefits of the Satisfaction of Christ as compleat, and every way suffi<g ref="char:EOLhyphen"/>cient as it is.</p>
+               <p>But, so things are as is aforesaid, Faith is indeed ex<g ref="char:EOLhyphen"/>ceedingly necessary, as a most excellent Mean to beget Holiness in us, and to fill us with Hope; and Holiness is indispensably necessary to render us capable of seeing God. <hi>Ergo.</hi>
+               </p>
+               <p>Note, that Faith has Respect to Christ. <hi>First,</hi> As he is a Prophet teaching us what the Will of God is, that we may know it. <hi>Secondly,</hi> As a Priest, securing to us God's Acceptance, if we do his Will sincerely, tho' im<g ref="char:EOLhyphen"/>perfectly. <hi>Thirdly,</hi> As a King, enabling us to do God's Will, as was Man's Duty before the Fall, is every Man's Duty still, notwithstanding his Inability to perform it acceptably; when we have done our best, God accept this Duty, but for the Sake of his Son our Lord.</p>
+               <closer>
+                  <hi>Sic Habemus,</hi>
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>
+                  <hi>Hallelujah.</hi>
+               </closer>
+               <closer>
+                  <hi>And let all the Angels in Heaven, and the whole</hi> Catholick Church <hi>on Earth, say</hi> Hallelujah.</closer>
+            </div>
+            <div type="part">
+               <p>They now who in their Researches after Verity seem to look more on the muddy Ponds of Natural Philoso<g ref="char:EOLhyphen"/>phy, and corrupt Reason, which in the dark Night of our degenerate state, shews us but the Moon and Stars reflected superficially, than on the Chrystal Line, and pure
+<pb n="15" facs="tcp:32498:9"/>Streams of God's Holy Word, which, if carefully pry'd into, would open to them a <hi>Visto,</hi> and enable them to see through into the inner Heaven, where they might discover the Oeconomy, that is, the <hi>Ratio Domus</hi> of the Blessed Trinity in Unity, and see the very Springs of Love, the Source, and Original of all House-holding,) are meekly desired, since God said once to his Servant <hi>Moses, I will shew thee my Back parts,</hi> not to conclude over hastily, that Demonstration here offered, <hi>(viz. A posteriori,)</hi> is a vain, or foolish Attempt, not to censure and condemn this Pamphlet, as an idle Thing; as an <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of one that's Brain sick, (that he is an <hi>Enthusiast</hi> cannot be imagined,) till the Contents of it are through<g ref="char:EOLhyphen"/>ly scann'd first, and well considered of; in regard the Doctrine of the Universal Church in all Ages, and par<g ref="char:EOLhyphen"/>ticularly of the Church of <hi>England</hi> is therein maintain'd. That 'tis the Doctrine of our own Church there are two Instances which manifestly shew; one in <hi>Athanasius</hi>'s Creed, put in Metre, before the singing Psalms, where the words are,
+<q>
+                     <l>
+                        <hi>The Catholick Belief is this,</hi>
+                     </l>
+                     <l>
+                        <hi>That God we Worship One</hi>
+                     </l>
+                     <l>
+                        <hi>In Trinity, and Trinity</hi>
+                     </l>
+                     <l>
+                        <hi>In Ʋnity alone.</hi>
+                     </l>
+                     <l>
+                        <hi>So as We neither do confound,</hi>
+                     </l>
+                     <l>
+                        <hi>Nor mix the Persons three:</hi>
+                     </l>
+                     <l>
+                        <hi>Nor yet the Substance</hi> Whole of One</l>
+                     <l>In Sunder parted be.</l>
+                  </q>
+               </p>
+               <p>The Other in the Communion-Office for Trinity Sun<g ref="char:EOLhyphen"/>day; in the Preface for that Day to that Angelical Laud, <hi>Wherefore with Angels and Arch-Angels, &amp;c.</hi> Where we are taught to say, <hi>It is meet, right, and our
+<pb n="16" facs="tcp:32498:10"/>bounden Duty, that we should at all times, and in all pla<g ref="char:EOLhyphen"/>ces give Thanks to Thee, Almighty, Everlasting God, who art one God, One Lord, &amp; not one only Person, but three Persons <hi>In one Substance;</hi> for what we believe of the Glory of the Father, the same we believe of the Son, and Holy Ghost without any Difference, or Inaequality.</hi> Here Men may see if they please, that the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, or Consubstantia<g ref="char:EOLhyphen"/>lity of the Son, and Holy Ghost to the Father, (as the Nicene Fathers defined, at what time the last of the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, <hi>viz.</hi> The subtilty of the <hi>Arians,</hi> ac<g ref="char:EOLhyphen"/>cording to the Word of Christ, did not prevail against his Church, as the Malice of the Jews, and the Pow<g ref="char:EOLhyphen"/>er of Heathen <hi>Rome</hi> had not done before) is the very <hi>Quatenus ipsum,</hi> or <hi>Ratio formalis</hi> of their being One God with the Father; and further, that there is no dif<g ref="char:EOLhyphen"/>ference, or Inaequality betwixt the Persons, (distinct, tho' they be,) for this reason, because the begotten Per<g ref="char:EOLhyphen"/>son, and the proceeding One have the same substance, and the same Glory which the Father hath in Unity with their own Personalities. It is very strange, that Men should read this Preface, and sing that Laud, and yet not perceive on which side the Truth lies, and what may be said of it? Truly, the Danger is (so ma<g ref="char:EOLhyphen"/>ny Enemies hath our Church at this day, Philosophers, Wits, Men of parts, whose Persons are had in Admi<g ref="char:EOLhyphen"/>ration for their Learning) that our Holy Liturgy, Her Creeds, and excellent Offices be laid aside again to make way next for Deism, Heathenism, as formerly it did for Heresie, and Schism, the Hedge, and Mounds which have kept the Faith sound, and intire, being re<g ref="char:EOLhyphen"/>moved by a Directory without Creeds or Hymns. 'Tis very sad indeed to think of it: Heathenism! And yet, what can we expect else, when all Religion but the
+<pb n="17" facs="tcp:32498:10"/>Natural is already charged in Print to be only a mat<g ref="char:EOLhyphen"/>ter of Priest-Craft? They who look on the Cross as a Shew-ill, and pitch like Bees where the Bason ringles, drowning the Voice of the Master Bee, may reflect on this, and learn to be stedfast in their profession. But, the Charge being layd against Religion its self, and that upon the Account of its admirable Mysteries, it is but necessary that somewhat be said, for the Remotion of so foul a Calumny, against these men. And, is there indeed no Difference betwixt the Mysteries of the Christi<g ref="char:EOLhyphen"/>an Religion, and the ridiculous <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> of the Heathen World? Must a <hi>Tripos,</hi> or <hi>Trivet</hi> of <hi>Apollo</hi>'s? Must a a <hi>Guinean-Faetiish</hi> (which is a painted Stick or two a Cross set up in an Hovel) be compared with the Ho<g ref="char:EOLhyphen"/>ly Trinity in Unity? Must the Glory of <hi>Israel</hi> be rankt with the <hi>Indians</hi> bright Side of a shining Feather, the God they worship, forsooth? Yea, and are the Myste<g ref="char:EOLhyphen"/>ries of our Faith concealed, and kept hid from the eyes of the Vulgar, least the Cheat of their <hi>Hiero<g ref="char:EOLhyphen"/>phantae,</hi> should be discern'd, as the Cheat of the Wor<g ref="char:EOLhyphen"/>shippers of <hi>Bel</hi> was by <hi>Daniel?</hi> He that says it, is to be held accursed For the Mysteries of our Faith are confestly Noble, Sublime and Venerable Mysteries; yea they are Mysteries adorable, fit to be pryed into with Angels eyes, with Admiration and Love: But what? Are they not revealed? Blessed be Gods Holy Name, they are; the Church dares not conceal them, nor doth she, the Least, or Greatest. For her Children are taught them early, and are made to know, as soon as they are capable of Learning, (<hi>viz.</hi> in there Catechism and Creeds,) that they must believe them, even to their dying day stedfastly, and that upon Peril of Dam<g ref="char:EOLhyphen"/>nation. So far is the Church from painting a <hi>Phaenix</hi>
+                  <pb n="18" facs="tcp:32498:11"/>at her Temple Doors to amuse her simple Votaries: So far from admitting none to be <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but such as live by the Altar, the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> only. Further, doth not all the World know, (if men would go by the best examples, not the worst) that the Reformers of our Church died at the Stake in the Days of Queen <hi>Mary?</hi> And can it be forgotten, how our most Re<g ref="char:EOLhyphen"/>ligious and Gracious King of Blessed Memory, (King <hi>Charles</hi> the Martyr,) lost not only His Crown, but the Sacred Head that most deservedly wore it; and how of the Reverend and Loyal Clergy, some parted with their Lives, others with all they had, all for adhering to the Truth? And must this be called Priest-craft! Good God! What is Conscience? What is Religion then? But, in vain it is to speak of Martyrs, and Con<g ref="char:EOLhyphen"/>fessors to such men as these; for having more respect to the mazy <hi>Labyrinths</hi> of <hi>Bernard Ochin,</hi> than they have to the Mysteries of Godliness, reckon they do that Christ Jesus himself is an Impostor, and that his Holy Apostles were <hi>Ideots</hi> and <hi>Fools;</hi> consequently, that Religion is a Fourb, and Revelation only a Pretence, so that the Celestial Paradise above, is for none but <hi>Beaux: Julian</hi> may have an <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, but <hi>Theodosius</hi> and <hi>Constantine</hi> are no Body with them. Let the <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> consider these things seriously, and he will see reason to think that the Blessed <hi>Millennium</hi> so much lookt for in these days of ours is already past, and that <hi>Satan</hi> is let loose from the Chains wherein he was held bound by the Angels of God. When such <hi>Gnostick,</hi> such <hi>Antichristian</hi> Principles, are spread amongst us up and down without Controul, who does not see that he knows his time to be short, and therefore so much rageth? Surely, unless it be prevented by timely Re<g ref="char:EOLhyphen"/>pentance,
+<pb n="19" facs="tcp:32498:11"/>inevitable Destruction is to be lookt for by us, and the undoubted Consequence will be, that the things of our Peace be hid from our eyes. Justly may it be said to us, as once to <hi>Israel,</hi> Is there no Balm in <hi>Gilead?</hi> Are there no Physicians there, and 'tis an awake<g ref="char:EOLhyphen"/>ning word to those, who are intrusted with Com<g ref="char:EOLhyphen"/>mission from Christ, and ought to be the Healers of our Breaches. For to such most pertinent is that Questi<g ref="char:EOLhyphen"/>on of the Prophet <hi>Jeremy, (if such Physicians there be,) why is not the Health of the Daughter of my People re<g ref="char:EOLhyphen"/>covered?</hi> All will say, it is great Pity but it should be recovered; and if the Design of this Paper be only that it may so be, is it to be blamed by any? Sure enough, not by those who have regard to Religion, and Gods Honour; the Preservation of which every good Christian must needs be concerned for highly; and to be hoped it is, that the Remotion of the Hel<g ref="char:EOLhyphen"/>lish Calumny, but now spoken of, will be some way serviceable thereto, in regard the cause of it is owing to the Argument of the Papists pleading for their strange Doctrine of Transubstantiation, from the Mystery of the Trinity in Unity, which they would have still to be kept under Vails and Curtains, and Clouds, as if it were not revealed. For so they say you believe the Mysteries of the Trinity in Unity, and why should you not believe also the Mysteries of Transubstantiati<g ref="char:EOLhyphen"/>on, nor the Change of the Elements in the Sacrament into the very Body and Blood of Christ as well? Now the demonstrating of this first Mystery, 'tis conceived, will be an Answer to this Argument of theirs, to whom this paper Cordially wishes well, humbly desiring that nothing may be able to keep them and us asunder, but that the Schism and Breaches betwixt us, may be
+<pb n="20" facs="tcp:32498:12"/>closed up: Have we not one Head? Are we not one Body? Is our Faith any more than one? O that the eyes of all those of that Communion were opened once! Certainly, it but a few things were remedyed, we need not despair; but that the Health of the Catholick Church may yet be recovered: Do thou, O Lord Jesus, add thy <hi>Ephatha</hi> to what is written here, and this Dirt, and Spittle, tho' temper'd by the meanest of thy Ser<g ref="char:EOLhyphen"/>vants, will do.</p>
+               <p>But, one thing more is needfull to be minded by us heedfully, and that is, for as much as 'tis the Counsel of Christ, exhorting us to buy of him, as pure Gold tryed in the Fire; so also white Raiment to cover our Nakedness; to take Care that as our Doctrine is true, so our Manners be good, and worthy our most Holy Profession. All they therefore who are stedfast in the Faith, and love the Lord Jesus in sincerity, are desired earnestly to add one Demonstration more to what here they find, <hi>viz.</hi> The Shining of their Light before men, that they may see their good Works, which is the best expedient they can use to convince; for by it men will be either brought to Glorifie our Father which is in Heaven; or else seeing the Power of Godliness in its Professors Lives be made ashamed. Of all Demon<g ref="char:EOLhyphen"/>strations whatsoever this is the best, it is <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap> and shews Ocularly what before hath been prov'd Lo<g ref="char:EOLhyphen"/>gically; and let it be added, that the Person who gives it, though men shall not be convinced, but in the midst of Light shall erre obstinately, may sweetly sing this note to himself, <hi>Liberavi Animam meam, I have done my Duty, what lies in me, so freed my own Soul.</hi>
+               </p>
+               <p>For the Conclusion of all now, what the Church holds, and Believes is undoubtedly this, forasmuch as
+<pb n="21" facs="tcp:32498:12"/>the Godhead, or eternal Substance of the Father cannot possibly be begotten, or proceed, that the Sons Person only was begotten before all Worlds, that the Holy Ghosts Person only proceeded from the Father and the Son, consequently that the Son and Holy Ghost, tho' they are another Person, and another Person, are not another God, and Another God, distinct from the Fa<g ref="char:EOLhyphen"/>ther, but that all Three (the Son and the Holy Ghost being begotten, and proceeding immanently) are most intimately in Unity, and so one God all three, and all three the same God. <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, is the very Truth, and let no one doubt, but that, whatever Ob<g ref="char:EOLhyphen"/>jection be made against it, it may and will be answe<g ref="char:EOLhyphen"/>red.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>Let the Impugners of the Faith consider what is said</hi>
+               </p>
+               <p>By <hi>Christ</hi> himself, <hi>Joh.</hi> 10.30. <hi>Marc.</hi> 16.16. <hi>Joh.</hi> 8.44.</p>
+               <p>By St. <hi>Joh.</hi> 1 <hi>Joh.</hi> 2.22. <hi>Rev.</hi> 22.16. By St. <hi>Paul,</hi> 2. <hi>Thess.</hi> 3.1, 2. 1. <hi>Cor.</hi> 16.22.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <hi>And as for true Believers;</hi>
+               </p>
+               <p>THE Grace of our Lord Jesus Christ, and the Love of God, and the Communication of the Holy Ghost be with them all. <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
